@@ -80,4 +80,4 @@ This repository tracks all historical deals for **Blue Guardian** published on P
 
 ---
 
-Last synced: 2026-10-29T02:04:33Z (auto, hourly)
+Last synced: 2026-10-29T06:30:27Z (auto, hourly)
