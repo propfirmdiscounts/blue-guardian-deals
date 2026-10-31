@@ -1,30 +1,48 @@
-# Blue Guardian - Discount Codes & Deal History
+# Blue Guardian Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-20, Blue Guardian deals run up to 25% OFF with code PFD, which works any time — the newest is **Reserve accounts cut by 25% with promo code**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/blue-guardian/
+> At Blue Guardian Futures , we strive to aid skilful and experienced traders to maximise their talent to full potential and secure a funded account with us. We came to understand that an edge in the financial market requires both sufficient capital and a well developed strategy.
+> Therefore, our goal became clear as we seek to find and accredit smart traders giving them the potential to make a sufficient income. Aiding them with a helping hand, a hand which may set them one step closer to financial freedom.
+>
+> — Blue Guardian, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/blueguardian.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-20
+- Trustpilot: 3.1/5 (2123 reviews)
+- Activate: https://propfirmdiscount.com/go/blueguardian
+- Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **25% off** on Blue Guardian challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Blue Guardian evaluation accounts.
+## Current Blue Guardian deal: Reserve accounts cut by 25% with promo code
+
+- Published: 2026-10-20
+- Offer ends: Limited time
+- Offer: 25% off
+- Scope: Reserve Evaluation Accounts, 25K, 50K, 100K, 150K, One-Phase Evaluation, Halloween Promotion
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/
+
+## Blue Guardian discount code FAQ
+
+**What is the Blue Guardian discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 25% off Blue Guardian challenges and accounts.
+
+**Does the Blue Guardian discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Blue Guardian deal?**
+
+**Reserve accounts cut by 25% with promo code** — published 2026-10-20. Offer ends: Limited time. The offer is 25% off.
 
 ---
 
-## Latest Deal
-
-### Blue Guardian - Reserve accounts cut by 25% with promo code
-
-**Published:** 2026-10-20  
-**Offer ends:** Limited time  
-**Discount:** 25% off  
-**Scope:** Reserve Evaluation Accounts, 25K, 50K, 100K, 150K, One-Phase Evaluation, Halloween Promotion  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **30**
 
@@ -70,19 +88,20 @@ Total deals tracked: **30**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Blue Guardian** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Blue Guardian** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/blue-guardian/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/blue-guardian/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
