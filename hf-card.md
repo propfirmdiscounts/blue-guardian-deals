@@ -41,6 +41,7 @@ As of 2026-10-20, Blue Guardian deals run up to 25% OFF with code PFD, which wor
 - Published: 2026-10-20
 - Offer ends: Limited time
 - Offer: 25% off
+- Event: Halloween
 - Scope: Reserve Evaluation Accounts, 25K, 50K, 100K, 150K, One-Phase Evaluation, Halloween Promotion
 - Code: PFD
 - Deal page: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/
@@ -69,8 +70,8 @@ Total deals tracked: **30**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-20 | Reserve accounts cut by 25% with promo code | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/) |
-| 2026-10-12 | 35% Off Challenge Pricing With 200% CFD Refund | 35% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) |
+| 2026-10-20 | Reserve accounts cut by 25% with promo code | 25% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/) |
+| 2026-10-12 | 35% Off Challenge Pricing With 200% CFD Refund | 35% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) |
 | 2026-10-02 | 50% Off Futures Challenges With New Entry Costs | 50% off | 2026-10-04 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/) |
 | 2026-08-17 | 25% Off Reserve Evaluation Accounts | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve/) |
 | 2026-07-09 | 40% Off All Accounts and 200% Refund Sale | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-200-refund/) |
@@ -86,7 +87,7 @@ Total deals tracked: **30**
 | 2026-04-02 | 45% Discount on 5K to 50K Trading Challenges | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-45-discount-5k-50k/) |
 | 2026-03-01 | Up to 45% Off Evaluation Accounts and 200% Refund Offer | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-spring-discount-evaluations/) |
 | 2026-02-20 | 45% Off 5K-50K Evaluations, 35% Off Other Sizes and 200% Refund | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-45-off-evaluations-200-refund/) |
-| 2026-02-13 | Valentine's Deal: 40% Price Drop on Challenges + 200% Refund | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-valentines-day-40-off/) |
+| 2026-02-13 | Valentine's Deal: 40% Price Drop on Challenges + 200% Refund | 40% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-valentines-day-40-off/) |
 | 2026-02-02 | Blue Guardian 40% Off with 150% Refund Deal | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-150-refund/) |
 | 2026-01-21 | Deal: 45% Off Instant Funding & 40% Off All Models | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-promo-45-off-instant-funding/) |
 
@@ -94,12 +95,12 @@ Total deals tracked: **30**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-29 | New Year Sale: 80% OFF 5K & 10K 3-Step + 40% OFF Others | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-new-year-sale-80-percent-off/) |
-| 2025-12-16 | Christmas Offer: 50% OFF Accounts and 30% OFF 2-Step Models | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-christmas-offer-50-percent-off/) |
-| 2025-12-01 | Cyber Monday Deal: 40% OFF Select Accounts & 30% OFF Site-Wide | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-cyber-monday-40-off-sale/) |
-| 2025-11-23 | Black Friday Sale: Up to 80% OFF + BOGO | 80% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-80-off-bogo/) |
-| 2025-11-18 | Black Friday Sale: 40% Off Promo Code | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-sale/) |
-| 2025-10-14 | 40% OFF All Accounts (Excl. 2-Step; IFS 30% OFF) | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-all-accounts-excl-2-step-ifs-30-off/) |
+| 2025-12-29 | New Year Sale: 80% OFF 5K & 10K 3-Step + 40% OFF Others | 80% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-new-year-sale-80-percent-off/) |
+| 2025-12-16 | Christmas Offer: 50% OFF Accounts and 30% OFF 2-Step Models | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-christmas-offer-50-percent-off/) |
+| 2025-12-01 | Cyber Monday Deal: 40% OFF Select Accounts & 30% OFF Site-Wide | 40% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-cyber-monday-40-off-sale/) |
+| 2025-11-23 | Black Friday Sale: Up to 80% OFF + BOGO | 80% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-80-off-bogo/) |
+| 2025-11-18 | Black Friday Sale: 40% Off Promo Code | 40% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-sale/) |
+| 2025-10-14 | 40% OFF All Accounts (Excl. 2-Step; IFS 30% OFF) | 40% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-all-accounts-excl-2-step-ifs-30-off/) |
 | 2025-10-09 | 30% OFF All Accounts + Instant Funding | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-all-accounts-instant-funding/) |
 | 2025-09-20 | 40% OFF Funding Accounts | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-promo-last-call-for-40-off-all-accounts/) |
 | 2025-09-14 | 50% OFF Your First Challenge | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-your-first-challenge/) |
