@@ -8,7 +8,7 @@ As of 2026-10-20, Blue Guardian deals run up to 25% OFF with code PFD, which wor
 > — Blue Guardian, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/blueguardian.com)
 
 - Code: PFD
-- Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 25% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-20
 - Trustpilot: 3.1/5 (2123 reviews)
