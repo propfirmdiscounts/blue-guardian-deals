@@ -2,11 +2,6 @@
 
 As of 2026-10-20, Blue Guardian deals run up to 25% OFF with code PFD, which works any time — the newest is Reserve accounts cut by 25% with promo code.
 
-> At Blue Guardian Futures , we strive to aid skilful and experienced traders to maximise their talent to full potential and secure a funded account with us. We came to understand that an edge in the financial market requires both sufficient capital and a well developed strategy.
-> Therefore, our goal became clear as we seek to find and accredit smart traders giving them the potential to make a sufficient income. Aiding them with a helping hand, a hand which may set them one step closer to financial freedom.
->
-> — Blue Guardian, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/blueguardian.com)
-
 - Code: PFD
 - Discount: Up to 25% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
