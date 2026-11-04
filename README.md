@@ -1,6 +1,6 @@
 # Blue Guardian - Discount Codes & Deal History
 
-As of 2026-10-20, Blue Guardian deals run up to 25% OFF with code PFD, which works any time — the newest is Reserve accounts cut by 25% with promo code.
+As of 2026-11-04, Blue Guardian deals run up to 30% OFF with code PFD, which works any time — the newest is 30% Off CFD and Futures Accounts - From $54.
 
 > At Blue Guardian Futures , we strive to aid skilful and experienced traders to maximise their talent to full potential and secure a funded account with us. We came to understand that an edge in the financial market requires both sufficient capital and a well developed strategy.
 > Therefore, our goal became clear as we seek to find and accredit smart traders giving them the potential to make a sufficient income. Aiding them with a helping hand, a hand which may set them one step closer to financial freedom.
@@ -8,30 +8,29 @@ As of 2026-10-20, Blue Guardian deals run up to 25% OFF with code PFD, which wor
 > — Blue Guardian, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/blueguardian.com)
 
 - Code: PFD
-- Discount: Up to 25% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
+- Discount: Up to 30% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-20
+- Last deal published: 2026-11-04
 - Trustpilot: 3.1/5 (2126 reviews)
 - Activate: https://propfirmdiscount.com/go/blueguardian
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Blue Guardian deal: Reserve accounts cut by 25% with promo code
+## Current Blue Guardian deal: 30% Off CFD and Futures Accounts - From $54
 
-- Published: 2026-10-20
+- Published: 2026-11-04
 - Offer ends: Limited time
-- Offer: 25% off
-- Event: Halloween
-- Scope: Reserve Evaluation Accounts, 25K, 50K, 100K, 150K, One-Phase Evaluation, Halloween Promotion
+- Offer: 30% off
+- Scope: Cfd Accounts, Futures Accounts, Futures From $54, Reserve Plan, Cfd Bundles
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/
+- Deal page: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/
 
 ## Blue Guardian discount code FAQ
 
 **What is the Blue Guardian discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 25% off Blue Guardian challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 30% off Blue Guardian challenges and accounts.
 
 **Does the Blue Guardian discount code expire?**
 
@@ -39,18 +38,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Blue Guardian deal?**
 
-**Reserve accounts cut by 25% with promo code** — published 2026-10-20. Offer ends: Limited time. The offer is 25% off.
+**30% Off CFD and Futures Accounts - From $54** — published 2026-11-04. Offer ends: Limited time. The offer is 30% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **30**
+Total deals tracked: **31**
 
-### 2026 (20 deals)
+### 2026 (21 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-04 | 30% Off CFD and Futures Accounts - From $54 | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/) |
 | 2026-10-20 | Reserve accounts cut by 25% with promo code | 25% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/) |
 | 2026-10-12 | 35% Off Challenge Pricing With 200% CFD Refund | 35% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) |
 | 2026-10-02 | 50% Off Futures Challenges With New Entry Costs | 50% off | 2026-10-04 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/) |
