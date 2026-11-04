@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: blueguardian
   FIRM_SLUG: blue-guardian
   DEALSTORE_ID: 173
   FIRM_NAME: Blue Guardian
