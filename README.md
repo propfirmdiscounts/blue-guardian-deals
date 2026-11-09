@@ -2,8 +2,7 @@
 
 As of 2026-11-04, Blue Guardian deals run up to 30% OFF with code PFD, which works any time — the newest is 30% Off CFD and Futures Accounts - From $54.
 
-> At Blue Guardian Futures , we strive to aid skilful and experienced traders to maximise their talent to full potential and secure a funded account with us. We came to understand that an edge in the financial market requires both sufficient capital and a well developed strategy.
-> Therefore, our goal became clear as we seek to find and accredit smart traders giving them the potential to make a sufficient income. Aiding them with a helping hand, a hand which may set them one step closer to financial freedom.
+> At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best.
 >
 > — Blue Guardian, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/blueguardian.com)
 
@@ -11,7 +10,7 @@ As of 2026-11-04, Blue Guardian deals run up to 30% OFF with code PFD, which wor
 - Discount: Up to 30% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
-- Trustpilot: 3.1/5 (2136 reviews)
+- Trustpilot: 3.1/5 (2153 reviews)
 - Activate: https://propfirmdiscount.com/go/blueguardian
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
