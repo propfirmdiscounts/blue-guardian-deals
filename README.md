@@ -10,7 +10,7 @@ As of 2026-11-04, Blue Guardian deals run up to 30% OFF with code PFD, which wor
 - Discount: Up to 30% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
-- Trustpilot: 3.1/5 (2153 reviews)
+- Trustpilot: 3/5 (2163 reviews)
 - Activate: https://propfirmdiscount.com/go/blueguardian
 - Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
