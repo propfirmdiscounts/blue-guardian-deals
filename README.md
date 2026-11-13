@@ -51,7 +51,7 @@ Total deals tracked: **31**
 |---|---|---|---|---|---|
 | 2026-11-04 | 30% Off CFD and Futures Accounts - From $54 | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/) |
 | 2026-10-20 | Reserve accounts cut by 25% with promo code | 25% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/) |
-| 2026-10-12 | 35% Off Challenge Pricing With 200% CFD Refund | 35% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) |
+| 2026-10-12 | 35% Off Challenge Pricing With 200% CFD Refund | 35% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) |
 | 2026-10-02 | 50% Off Futures Challenges With New Entry Costs | 50% off | 2026-10-04 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-50-off-futures-accounts/) |
 | 2026-08-17 | 25% Off Reserve Evaluation Accounts | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve/) |
 | 2026-07-09 | 40% Off All Accounts and 200% Refund Sale | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-40-off-200-refund/) |
