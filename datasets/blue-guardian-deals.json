@@ -178,7 +178,7 @@
   {
     "deal_id": 12161,
     "title": "Up To 45% Off 2-Step Challenge Purchase Cost",
-    "offer_type": "deal",
+    "offer_type": "coupon",
     "discount_value": "45%",
     "scope": [
       "2-Step Challenges"
@@ -266,7 +266,7 @@
   {
     "deal_id": 11703,
     "title": "Up to 45% Off Forex and 35% Off Futures Launch Sale",
-    "offer_type": "deal",
+    "offer_type": "coupon",
     "discount_value": "45%",
     "scope": [
       "Forex, Futures, Launch Sale"
