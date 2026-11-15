@@ -10,11 +10,12 @@ As of 2026-11, Blue Guardian deals run 30% OFF with code PFD, which works any ti
 - Discount: 30% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
-- Trustpilot: 3/5 (2163 reviews)
-- Activate: https://propfirmdiscount.com/go/blueguardian
-- Firm page: https://propfirmdiscount.com/prop-firm/blue-guardian/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3/5 (2163 reviews)](https://www.trustpilot.com/review/blueguardian.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/blue-guardian-deals](https://github.com/propfirmdiscounts/blue-guardian-deals)
+- Activate: [https://propfirmdiscount.com/go/blueguardian](https://propfirmdiscount.com/go/blueguardian)
+- Firm page: [https://propfirmdiscount.com/prop-firm/blue-guardian/](https://propfirmdiscount.com/prop-firm/blue-guardian/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Blue Guardian deal: 30% Off CFD and Futures Accounts - From $54 with code PFD
 
@@ -23,7 +24,7 @@ As of 2026-11, Blue Guardian deals run 30% OFF with code PFD, which works any ti
 - Offer: 30% off
 - Scope: Cfd Accounts, Futures Accounts, Futures From $54, Reserve Plan, Cfd Bundles
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/
+- Deal page: [https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/)
 
 ## Blue Guardian discount code FAQ
 
@@ -92,9 +93,9 @@ Total deals tracked: **31**
 
 This repository mirrors every deal **Blue Guardian** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/blue-guardian/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/blue-guardian/](https://propfirmdiscount.com/prop-firm/blue-guardian/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/blue-guardian-deals.json`
 
