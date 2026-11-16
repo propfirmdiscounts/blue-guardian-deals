@@ -1,6 +1,6 @@
 # Blue Guardian - Discount Codes & Deal History
 
-As of November 2026, Blue Guardian deals offer 30% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified Blue Guardian discount code is PFD — 25% OFF, which can be applied on the checkout page anytime. The newest is "30% Off CFD and Futures Accounts - From $54 with code PFD".
 
 > At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best.
 >
@@ -11,11 +11,11 @@ As of November 2026, Blue Guardian deals offer 30% OFF with code PFD, which can 
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
 - Trustpilot: [3/5 (2163 reviews)](https://www.trustpilot.com/review/blueguardian.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/blue-guardian-deals](https://github.com/propfirmdiscounts/blue-guardian-deals)
-- Activate: [https://propfirmdiscount.com/go/blueguardian](https://propfirmdiscount.com/go/blueguardian)
-- Firm page: [https://propfirmdiscount.com/prop-firm/blue-guardian/](https://propfirmdiscount.com/prop-firm/blue-guardian/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Blue Guardian Deals Repository](https://github.com/propfirmdiscounts/blue-guardian-deals)
+- Activate: [Activate Blue Guardian Discount Code](https://propfirmdiscount.com/go/blueguardian)
+- Firm page: [Blue Guardian Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/blue-guardian/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Blue Guardian API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Blue Guardian deal: 30% Off CFD and Futures Accounts - From $54 with code PFD
 
@@ -24,7 +24,7 @@ As of November 2026, Blue Guardian deals offer 30% OFF with code PFD, which can 
 - Offer: 30% off
 - Scope: Cfd Accounts, Futures Accounts, Futures From $54, Reserve Plan, Cfd Bundles
 - Code: PFD
-- Deal page: [https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/)
+- Deal page: [Blue Guardian Deal Page](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/)
 
 ## Blue Guardian discount code FAQ
 
@@ -93,9 +93,9 @@ Total deals tracked: **31**
 
 This repository mirrors every deal **Blue Guardian** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/blue-guardian/](https://propfirmdiscount.com/prop-firm/blue-guardian/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Blue Guardian Profile](https://propfirmdiscount.com/prop-firm/blue-guardian/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/blue-guardian-deals.json`
 
@@ -138,4 +138,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
