@@ -1,6 +1,6 @@
-# Blue Guardian - Discount Codes & Deal History
+# Blue Guardian Discount Code & Deal History
 
-As of November 2026, the verified Blue Guardian discount code is PFD — 25% OFF, which can be applied on the checkout page anytime. The newest is "30% Off CFD and Futures Accounts - From $54 with code PFD".
+As of November 2026, the verified Blue Guardian discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "30% Off CFD and Futures Accounts - From $54 with code PFD".
 
 > At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best.
 >
@@ -8,7 +8,7 @@ As of November 2026, the verified Blue Guardian discount code is PFD — 25% OFF
 
 - Code: PFD
 - Discount: 30% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-04
 - Trustpilot: [3/5 (2163 reviews)](https://www.trustpilot.com/review/blueguardian.com)
 - GitHub repository: [Blue Guardian Deals Repository](https://github.com/propfirmdiscounts/blue-guardian-deals)
@@ -17,7 +17,7 @@ As of November 2026, the verified Blue Guardian discount code is PFD — 25% OFF
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Blue Guardian API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Blue Guardian deal: 30% Off CFD and Futures Accounts - From $54 with code PFD
+## Latest Blue Guardian deal: 30% Off CFD and Futures Accounts - From $54 with code PFD
 
 - Published: 2026-11-04
 - Offer ends: Limited time
@@ -26,7 +26,7 @@ As of November 2026, the verified Blue Guardian discount code is PFD — 25% OFF
 - Code: PFD
 - Deal page: [Blue Guardian Deal Page](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/)
 
-## Blue Guardian discount code FAQ
+## Blue Guardian Discount Code & Deals FAQ
 
 **What is the Blue Guardian discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Blue Guardian Deal History
 
 Total deals tracked: **31**
 
@@ -89,7 +89,7 @@ Total deals tracked: **31**
 
 ---
 
-## About this repository
+## About the Blue Guardian Deals Dataset
 
 This repository mirrors every deal **Blue Guardian** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -97,7 +97,7 @@ This repository mirrors every deal **Blue Guardian** has published on PropFirmDi
 - Prop firm profile: [Blue Guardian Profile](https://propfirmdiscount.com/prop-firm/blue-guardian/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/blue-guardian-deals.json`
+## Blue Guardian Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -129,13 +129,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
