@@ -1,6 +1,6 @@
 # Blue Guardian - Discount Codes & Deal History
 
-As of 2026-11, Blue Guardian deals run 30% OFF with code PFD, which works any time — the newest is 30% Off CFD and Futures Accounts - From $54.
+As of November 2026, Blue Guardian deals offer 30% OFF with code PFD, which can be applied on the checkout page anytime.
 
 > At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best.
 >
