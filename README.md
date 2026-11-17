@@ -1,6 +1,6 @@
 # Blue Guardian Discount Code & Deal History
 
-As of November 2026, the verified Blue Guardian discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "30% Off CFD and Futures Accounts - From $54 with code PFD".
+As of November 2026, the verified Blue Guardian discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "30% Off Every Account with code PFD".
 
 > At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best.
 >
@@ -9,22 +9,22 @@ As of November 2026, the verified Blue Guardian discount code is PFD — 30% OFF
 - Code: PFD
 - Discount: 30% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-04
-- Trustpilot: [3/5 (2163 reviews)](https://www.trustpilot.com/review/blueguardian.com)
+- Last deal published: 2026-11-16
+- Trustpilot: [3/5 (2169 reviews)](https://www.trustpilot.com/review/blueguardian.com)
 - GitHub repository: [Blue Guardian Deals Repository](https://github.com/propfirmdiscounts/blue-guardian-deals)
 - Activate: [Activate Blue Guardian Discount Code](https://propfirmdiscount.com/go/blueguardian)
 - Firm page: [Blue Guardian Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/blue-guardian/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Blue Guardian API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Blue Guardian deal: 30% Off CFD and Futures Accounts - From $54 with code PFD
+## Latest Blue Guardian deal: 30% Off Every Account with code PFD
 
-- Published: 2026-11-04
+- Published: 2026-11-16
 - Offer ends: Limited time
 - Offer: 30% off
-- Scope: Cfd Accounts, Futures Accounts, Futures From $54, Reserve Plan, Cfd Bundles
+- Scope: Every Account
 - Code: PFD
-- Deal page: [Blue Guardian Deal Page](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/)
+- Deal page: [Blue Guardian Deal Page](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/)
 
 ## Blue Guardian Discount Code & Deals FAQ
 
@@ -38,18 +38,20 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Blue Guardian deal?**
 
-**30% Off CFD and Futures Accounts - From $54 with code PFD** — published 2026-11-04. Offer ends: Limited time. The offer is 30% off.
+**30% Off Every Account with code PFD** — published 2026-11-16. Offer ends: Limited time. The offer is 30% off.
 
 ---
 
 ## Blue Guardian Deal History
 
-Total deals tracked: **31**
+Total deals tracked: **33**
 
-### 2026 (21 deals)
+### 2026 (23 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-16 | Blue Guardian: 30% Off Every Account with code PFD | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/) |
+| 2026-11-16 | Blue Guardian: Futures ZERO Launch at 30% Off with code PFD | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-futures-zero-30-off-launch/) |
 | 2026-11-04 | Blue Guardian: 30% Off CFD and Futures Accounts - From $54 with code PFD | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/) |
 | 2026-10-20 | Blue Guardian: Reserve accounts cut by 25% with promo code with code PFD | 25% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-25-off-reserve-accounts/) |
 | 2026-10-12 | Blue Guardian: 35% Off Challenge Pricing With 200% CFD Refund with code PFD | 35% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-halloween-35-off-200-refund/) |
