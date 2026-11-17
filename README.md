@@ -1,4 +1,4 @@
-# Blue Guardian Discount Code & Deal History
+# Blue Guardian Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Blue Guardian discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "30% Off Every Account with code PFD".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified Blue Guardian discount code is PFD — 30% OFF
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
 - Trustpilot: [3/5 (2169 reviews)](https://www.trustpilot.com/review/blueguardian.com)
-- GitHub repository: [Blue Guardian Deals Repository](https://github.com/propfirmdiscounts/blue-guardian-deals)
+- GitHub repository: [Blue Guardian Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/blue-guardian-deals)
 - Activate: [Activate Blue Guardian Discount Code](https://propfirmdiscount.com/go/blueguardian)
 - Firm page: [Blue Guardian Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/blue-guardian/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -26,7 +26,7 @@ As of November 2026, the verified Blue Guardian discount code is PFD — 30% OFF
 - Code: PFD
 - Deal page: [Blue Guardian Deal Page](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/)
 
-## Blue Guardian Discount Code & Deals FAQ
+## Blue Guardian Discount Code & Deals History FAQ
 
 **What is the Blue Guardian discount code?**
 
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Blue Guardian Deal History
+## Blue Guardian Deals History
 
 Total deals tracked: **33**
 
@@ -91,7 +91,7 @@ Total deals tracked: **33**
 
 ---
 
-## About the Blue Guardian Deals Dataset
+## About the Blue Guardian Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Blue Guardian** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -99,7 +99,7 @@ This repository mirrors every deal **Blue Guardian** has published on PropFirmDi
 - Prop firm profile: [Blue Guardian Profile](https://propfirmdiscount.com/prop-firm/blue-guardian/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Blue Guardian Deal Dataset: Field Definitions
+## Blue Guardian Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
