@@ -1,36 +1,37 @@
 # Blue Guardian Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Blue Guardian discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. The newest is "30% Off Every Account (code PFD)".
+As of November 2026, the verified Blue Guardian discount code is PFD — 35% OFF, which can be applied on the checkout page anytime. The newest is "35% Off Everything This Black Friday (code PFD)".
 
 > At Blue Guardian, we back talented traders with the capital, technology, and support they need to perform at their best.
 >
 > — Blue Guardian, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/blueguardian.com)
 
 - Code: PFD
-- Discount: 30% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
+- Discount: 35% off (what the code takes off the firm's newest deal; it applies to every Blue Guardian deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-16
-- Trustpilot: [3/5 (2184 reviews)](https://www.trustpilot.com/review/blueguardian.com)
+- Last deal published: 2026-11-23
+- Trustpilot: [3/5 (2189 reviews)](https://www.trustpilot.com/review/blueguardian.com)
 - GitHub repository: [Blue Guardian Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/blue-guardian-deals)
 - Activate: [Activate Blue Guardian Discount Code](https://propfirmdiscount.com/go/blueguardian)
 - Firm page: [Blue Guardian Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/blue-guardian/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Blue Guardian API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Blue Guardian deal: 30% Off Every Account (code PFD)
+## Latest Blue Guardian deal: 35% Off Everything This Black Friday (code PFD)
 
-- Published: 2026-11-16
-- Offer ends: Limited time
-- Offer: 30% off
-- Scope: Every Account
+- Published: 2026-11-23
+- Offer ends: 2026-11-30 18:59
+- Offer: 35% off
+- Event: Black Friday
+- Scope: All Futures And Cfd Accounts
 - Code: PFD
-- Deal page: [Blue Guardian Deal Page](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/)
+- Deal page: [Blue Guardian Deal Page](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/)
 
 ## Blue Guardian Discount Code & Deals History FAQ
 
 **What is the Blue Guardian discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 30% off Blue Guardian challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 35% off Blue Guardian challenges and accounts.
 
 **Does the Blue Guardian discount code expire?**
 
@@ -38,18 +39,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Blue Guardian deal?**
 
-**30% Off Every Account (code PFD)** — published 2026-11-16. Offer ends: Limited time. The offer is 30% off.
+**35% Off Everything This Black Friday (code PFD)** — published 2026-11-23. Offer ends: 2026-11-30 18:59. The offer is 35% off.
 
 ---
 
 ## Blue Guardian Deals History
 
-Total deals tracked: **33**
+Total deals tracked: **34**
 
-### 2026 (23 deals)
+### 2026 (24 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-23 | Blue Guardian: 35% Off Everything This Black Friday (code PFD) | 35% off | 2026-11-30 18:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-black-friday-35-off-everything/) |
 | 2026-11-16 | Blue Guardian: 30% Off Every Account (code PFD) | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-every-account/) |
 | 2026-11-16 | Blue Guardian: Futures ZERO Launch at 30% Off (code PFD) | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-futures-zero-30-off-launch/) |
 | 2026-11-04 | Blue Guardian: 30% Off CFD and Futures Accounts - From $54 (code PFD) | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/blue-guardian/blue-guardian-30-off-cfd-futures-accounts/) |
